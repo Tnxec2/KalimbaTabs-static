@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "https://tnxec2.github.io/KalimbaTabs-static/static/css/main.1a57c6b7.chunk.css",
-    "main.js": "https://tnxec2.github.io/KalimbaTabs-static/static/js/main.a973be09.chunk.js",
-    "main.js.map": "https://tnxec2.github.io/KalimbaTabs-static/static/js/main.a973be09.chunk.js.map",
-    "runtime-main.js": "https://tnxec2.github.io/KalimbaTabs-static/static/js/runtime-main.592e6298.js",
-    "runtime-main.js.map": "https://tnxec2.github.io/KalimbaTabs-static/static/js/runtime-main.592e6298.js.map",
+    "main.js": "https://tnxec2.github.io/KalimbaTabs-static/static/js/main.6e4a7e7b.chunk.js",
+    "main.js.map": "https://tnxec2.github.io/KalimbaTabs-static/static/js/main.6e4a7e7b.chunk.js.map",
+    "runtime-main.js": "https://tnxec2.github.io/KalimbaTabs-static/static/js/runtime-main.6e285ba7.js",
+    "runtime-main.js.map": "https://tnxec2.github.io/KalimbaTabs-static/static/js/runtime-main.6e285ba7.js.map",
     "static/css/2.f9a081fa.chunk.css": "https://tnxec2.github.io/KalimbaTabs-static/static/css/2.f9a081fa.chunk.css",
-    "static/js/2.aeb3f613.chunk.js": "https://tnxec2.github.io/KalimbaTabs-static/static/js/2.aeb3f613.chunk.js",
-    "static/js/2.aeb3f613.chunk.js.map": "https://tnxec2.github.io/KalimbaTabs-static/static/js/2.aeb3f613.chunk.js.map",
-    "static/js/3.a2c6ed81.chunk.js": "https://tnxec2.github.io/KalimbaTabs-static/static/js/3.a2c6ed81.chunk.js",
-    "static/js/3.a2c6ed81.chunk.js.map": "https://tnxec2.github.io/KalimbaTabs-static/static/js/3.a2c6ed81.chunk.js.map",
+    "static/js/2.32033a9d.chunk.js": "https://tnxec2.github.io/KalimbaTabs-static/static/js/2.32033a9d.chunk.js",
+    "static/js/2.32033a9d.chunk.js.map": "https://tnxec2.github.io/KalimbaTabs-static/static/js/2.32033a9d.chunk.js.map",
+    "static/js/3.f7b8d1a8.chunk.js": "https://tnxec2.github.io/KalimbaTabs-static/static/js/3.f7b8d1a8.chunk.js",
+    "static/js/3.f7b8d1a8.chunk.js.map": "https://tnxec2.github.io/KalimbaTabs-static/static/js/3.f7b8d1a8.chunk.js.map",
     "index.html": "https://tnxec2.github.io/KalimbaTabs-static/index.html",
     "static/css/2.f9a081fa.chunk.css.map": "https://tnxec2.github.io/KalimbaTabs-static/static/css/2.f9a081fa.chunk.css.map",
     "static/css/main.1a57c6b7.chunk.css.map": "https://tnxec2.github.io/KalimbaTabs-static/static/css/main.1a57c6b7.chunk.css.map",
-    "static/js/2.aeb3f613.chunk.js.LICENSE.txt": "https://tnxec2.github.io/KalimbaTabs-static/static/js/2.aeb3f613.chunk.js.LICENSE.txt"
+    "static/js/2.32033a9d.chunk.js.LICENSE.txt": "https://tnxec2.github.io/KalimbaTabs-static/static/js/2.32033a9d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.592e6298.js",
+    "static/js/runtime-main.6e285ba7.js",
     "static/css/2.f9a081fa.chunk.css",
-    "static/js/2.aeb3f613.chunk.js",
+    "static/js/2.32033a9d.chunk.js",
     "static/css/main.1a57c6b7.chunk.css",
-    "static/js/main.a973be09.chunk.js"
+    "static/js/main.6e4a7e7b.chunk.js"
   ]
 }
