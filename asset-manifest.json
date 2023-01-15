@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "https://tnxec2.github.io/KalimbaTabs-static/static/css/main.1a57c6b7.chunk.css",
-    "main.js": "https://tnxec2.github.io/KalimbaTabs-static/static/js/main.bda468ba.chunk.js",
-    "main.js.map": "https://tnxec2.github.io/KalimbaTabs-static/static/js/main.bda468ba.chunk.js.map",
+    "main.js": "https://tnxec2.github.io/KalimbaTabs-static/static/js/main.11514607.chunk.js",
+    "main.js.map": "https://tnxec2.github.io/KalimbaTabs-static/static/js/main.11514607.chunk.js.map",
     "runtime-main.js": "https://tnxec2.github.io/KalimbaTabs-static/static/js/runtime-main.592e6298.js",
     "runtime-main.js.map": "https://tnxec2.github.io/KalimbaTabs-static/static/js/runtime-main.592e6298.js.map",
     "static/css/2.f9a081fa.chunk.css": "https://tnxec2.github.io/KalimbaTabs-static/static/css/2.f9a081fa.chunk.css",
-    "static/js/2.e8ee78ec.chunk.js": "https://tnxec2.github.io/KalimbaTabs-static/static/js/2.e8ee78ec.chunk.js",
-    "static/js/2.e8ee78ec.chunk.js.map": "https://tnxec2.github.io/KalimbaTabs-static/static/js/2.e8ee78ec.chunk.js.map",
+    "static/js/2.b1d13749.chunk.js": "https://tnxec2.github.io/KalimbaTabs-static/static/js/2.b1d13749.chunk.js",
+    "static/js/2.b1d13749.chunk.js.map": "https://tnxec2.github.io/KalimbaTabs-static/static/js/2.b1d13749.chunk.js.map",
     "static/js/3.a2c6ed81.chunk.js": "https://tnxec2.github.io/KalimbaTabs-static/static/js/3.a2c6ed81.chunk.js",
     "static/js/3.a2c6ed81.chunk.js.map": "https://tnxec2.github.io/KalimbaTabs-static/static/js/3.a2c6ed81.chunk.js.map",
     "index.html": "https://tnxec2.github.io/KalimbaTabs-static/index.html",
     "static/css/2.f9a081fa.chunk.css.map": "https://tnxec2.github.io/KalimbaTabs-static/static/css/2.f9a081fa.chunk.css.map",
     "static/css/main.1a57c6b7.chunk.css.map": "https://tnxec2.github.io/KalimbaTabs-static/static/css/main.1a57c6b7.chunk.css.map",
-    "static/js/2.e8ee78ec.chunk.js.LICENSE.txt": "https://tnxec2.github.io/KalimbaTabs-static/static/js/2.e8ee78ec.chunk.js.LICENSE.txt"
+    "static/js/2.b1d13749.chunk.js.LICENSE.txt": "https://tnxec2.github.io/KalimbaTabs-static/static/js/2.b1d13749.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.592e6298.js",
     "static/css/2.f9a081fa.chunk.css",
-    "static/js/2.e8ee78ec.chunk.js",
+    "static/js/2.b1d13749.chunk.js",
     "static/css/main.1a57c6b7.chunk.css",
-    "static/js/main.bda468ba.chunk.js"
+    "static/js/main.11514607.chunk.js"
   ]
 }
